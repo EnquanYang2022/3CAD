@@ -3,7 +3,7 @@
 ## Download the datasets in the following link and extract them into corresponding folders.
 | Dataset | Official | Our link | Task
 |------------|------------------|------------------| ------------------|
-| 3CAD    | [Official](https://drive.google.com/file/d/1VQLV5fqm84uNDqXtvhYS14XazpAeinMX/view?usp=drive_link) | [Google Drive](https://drive.google.com/file/d/1VQLV5fqm84uNDqXtvhYS14XazpAeinMX/view?usp=drive_link) | Anomaly Detection & Localization |
+| 3CAD    | [Official](https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1zhCHL6oH8_IuEkU72F-9bltroiBHmmcH/view?usp=sharing) | Anomaly Detection & Localization |
 | MVTec-AD    | [official](https://www.mvtec.com/company/research/datasets/mvtec-ad) | [Google Drive](https://drive.google.com/file/d/1qImSm9GFZEag67hJeTNyVhon8hVLnwyO/view?usp=sharing) | Anomaly Detection & Localization |
 | DTD    | [official](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | [Google Drive](https://drive.google.com/file/d/171A3_RGjRsLxdqdY4g42Efecj3WzWNjI/view?usp=sharing) | Anomaly Detection & Localization |
 
