@@ -38,17 +38,17 @@ Industrial anomaly detection achieves progress thanks to datasets such as MVTec-
 ## 📐 Dataset Examples
 The data originates from high-quality segmentation datasets accumulated by the company over several years from various production line projects. It comprises 10,493 training images and 16,546 testing images that are carefully selected to represent the best acquisition for each product type.
 <p align="center">
-    <img src="./figs/table1.jpg" width="100%" height="100%">
+    <img src="./figs/img1.png" width="100%" height="100%">
 </p>
 
 <p align="center">
-    <img src="./figs/sup_fig1.jpg" width="100%" height="100%">
+    <img src="./figs/img2.png" width="100%" height="100%">
 </p>
 
 
 ## 🔮 Our Benchmark
 <p align="center">
-    <img src="./figs/method.jpg" width="100%" height="100%">
+    <img src="./figs/img3.png" width="100%" height="100%">
 </p>
 
 ## 🚀 Evaluation Pipeline
