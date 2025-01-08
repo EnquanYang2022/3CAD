@@ -92,15 +92,14 @@ if __name__ == '__main__':
                  'transistor', 'metal_nut', 'screw', 'toothbrush', 'zipper', 'tile', 'wood']
     #3CAD
     # item_list = [
-    #     "aluminum_camera_cover",
-    #     "aluminum_ipad",
-    #     "aluminum_middle-frame",
-    #     "aluminum_new_middle_frame",
-    #     "aluminum_ipad_new",
-    #     "aluminum_pc",
-    #     "copper_stator",
-    #     "iron_stator",
-    #
+    # "Aluminum_Camera_Cover",
+    # "Aluminum_Ipad",
+    # "Aluminum_Middle-Frame",
+    # "Aluminum_New_Middle_Frame",
+    # "Aluminum_New_Ipad",
+    # "Aluminum_Pc",
+    # "Copper_Stator",
+    # "Iron_Stator",
     # ]
     total_roc_auc = []
     total_image_roc_auc = []
