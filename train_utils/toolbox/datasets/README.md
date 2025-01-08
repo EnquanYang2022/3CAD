@@ -46,5 +46,5 @@ Both the **3CAD** and **MVTec-AD** datasets should be organized with the same fo
     └── zipper
 ```
 #### Prepare DTD dataset.
-If you use **DTD** dataset for anomaly synthesis, Please download and extract it to your path. Modify the **dtd_path** in [get_dataset](train_utils/toolbox/utils.py) to the path where you extracted it.
+If you use **DTD** dataset for anomaly synthesis, Please download and extract it to your path. Modify the **dtd_path** in [get_dataset](../utils.py) to the path where you extracted it.
 After organizing the datasets, each folder should contain the category subfolders. 
