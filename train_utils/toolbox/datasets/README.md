@@ -9,7 +9,7 @@
 
 ## Dataset Directory Structure
 
-After downloading and extracting, ensure that each dataset folder directly contains the category folders.
+After downloading and extracting, ensure that each dataset folder directly contains the category folders. For the convenience of research, the dataset structure of 3CAD is identical to that of MVTec-AD.
 
 #### 3CAD and MVTec-AD Directory Structure
 Both the **3CAD** and **MVTec-AD** datasets should be organized with the same folder structure:
