@@ -14,7 +14,7 @@ Enquan Yang\*, Peng Xing\*, Hanyang Sun, Wenbo Guo, Yuanwei Ma, Zechao Li, Dan Z
 - Explore new model architectures to enhance the performance of 3CAD across multiple task formats.
 
 ## 📜 News
-
+- **[2025-04-22]** We have updated the dataset by replacing Pinyin labels with English annotations for defect categories. 
 - **[2025-01-06]** The dataset and code will be updated soon. 
 
 ## 👀 Overview
